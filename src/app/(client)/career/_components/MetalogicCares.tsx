@@ -44,7 +44,7 @@ export default function MetalogicCares() {
             Metalogic Cares For You
           </h2>
           <p className="text-[#0B2241] text-base">
-            We're less about valuing perks and more about valuing people. Our employee benefits are built around enhancing your wellbeing – at work and at home
+            We are less about valuing perks and more about valuing people. Our employee benefits are built around enhancing your wellbeing – at work and at home
           </p>
         </div>
         {/* Right: Benefits Grid */}

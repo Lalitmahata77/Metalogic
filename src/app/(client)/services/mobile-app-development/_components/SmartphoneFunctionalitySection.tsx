@@ -80,11 +80,11 @@ export default function SmartphoneFunctionalitySection() {
       <div className="max-w-6xl mx-auto px-4">
         {/* Heading */}
         <h2 className="text-4xl md:text-5xl font-bold text-center text-[#0a174e] mb-4">
-          Creating Every Smartphone Functionality That Today's Users Require
+          Creating Every Smartphone Functionality That Today is Users Require
         </h2>
         {/* Subheading */}
         <p className="text-gray-600 text-center max-w-3xl mx-auto mb-10">
-          Whether developing a mobile app for a business or a consumer, we depend on our knowledge of various technologies and tools to create apps that are genuinely beneficial and worthy of users' screen real estate. Even if we can duplicate the functionalities, no two applications are the same since we give each one a special value proposition and customize the functionality to meet the demands of its target user base.
+          Whether developing a mobile app for a business or a consumer, we depend on our knowledge of various technologies and tools to create apps that are genuinely beneficial and worthy of users screen real estate. Even if we can duplicate the functionalities, no two applications are the same since we give each one a special value proposition and customize the functionality to meet the demands of its target user base.
         </p>
         {/* Features Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">

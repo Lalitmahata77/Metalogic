@@ -50,7 +50,7 @@ export default function QualityAssurancePage() {
         </h1>
         {/* Subheading */}
         <p className="text-gray-500 text-center max-w-3xl mx-auto mb-10">
-          Other than technical expertise, a wide range of other factors may directly or indirectly affect the quality of the program and the project's conclusion. At Metalogic, we value every single one of them greatly.
+          Other than technical expertise, a wide range of other factors may directly or indirectly affect the quality of the program and the project is conclusion. At Metalogic, we value every single one of them greatly.
         </p>
         {/* Features Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

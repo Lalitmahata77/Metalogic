@@ -39,7 +39,7 @@ export default function DesignExperienceSection() {
         </h2>
         {/* Subheading */}
         <p className="text-gray-700 mb-10 max-w-3xl">
-          Positioned as an enthusiast leading the way in the industry, our team at the forefront champions the "design-first" approach. Our skilled UX/UI designers are proven experts dedicated to promoting a context-driven design philosophy that spans across the entire spectrum of services within this field.
+          Positioned as an enthusiast leading the way in the industry, our team at the forefront champions the design-first approach. Our skilled UX/UI designers are proven experts dedicated to promoting a context-driven design philosophy that spans across the entire spectrum of services within this field.
         </p>
         {/* Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

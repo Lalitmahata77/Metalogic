@@ -20,7 +20,7 @@ export default function CareerHero() {
       {/* Bubble behind text */}
       <div className="relative z-10 bg-white px-8 py-6 rounded-full shadow-lg max-w-md">
         <p className="text-black text-base sm:text-lg mb-4">
-          We're continuously searching for the right talent. Check if you're a good match.
+          We are continuously searching for the right talent. Check if you are a good match.
         </p>
         <button className="bg-[#001C48] text-white px-6 py-2 rounded-lg font-semibold shadow-md hover:bg-[#003A95] transition">
           Explore Opportunities

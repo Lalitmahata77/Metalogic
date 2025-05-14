@@ -38,7 +38,7 @@ export default function ContactPage() {
         <div className="flex flex-col justify-center">
           <div className="text-red-600 font-semibold mb-2">GET IN TOUCH</div>
           <h1 className="text-4xl md:text-5xl font-bold text-[#1a2341] mb-4 leading-tight">
-            Let's Kickstart Your Project
+            Let is Kickstart Your Project
           </h1>
           <p className="text-gray-700 mb-6 max-w-md">
             Ready to take the next step? Fill out the form to schedule a consultation with our experts.

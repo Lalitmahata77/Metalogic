@@ -9,7 +9,7 @@ export default function BlogHeader() {
           All Blog Post
         </h1>
         <p className="text-white text-base md:text-lg font-normal">
-          Here, creativity knows no bounds, and innovation takes center stage. Whether you're an industry expert, a curious learner, or an aspiring entrepreneur, this is the place where ideas come to life, insights are shared, and knowledge is transformed into action.
+          Here, creativity knows no bounds, and innovation takes center stage. Whether you are an industry expert, a curious learner, or an aspiring entrepreneur, this is the place where ideas come to life, insights are shared, and knowledge is transformed into action.
         </p>
       </div>
     </section>

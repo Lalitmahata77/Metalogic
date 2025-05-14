@@ -21,7 +21,7 @@ export default function ProjectCTA() {
             Have a Project in<br className="hidden md:block" /> Mind?
           </h2>
           <p className="text-gray-700 mb-4">
-            Let's Connect and Ignite Success!
+            Let is Connect and Ignite Success!
           </p>
           <a
             href="#contact"
