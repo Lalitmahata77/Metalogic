@@ -79,7 +79,14 @@ export default function ServicesPage() {
 }
 
 // Service Card Component
-function ServiceCard({ icon, title, description, gradient }) {
+type ServiceCardProps = {
+  icon: React.ReactNode;
+  title: string;
+  description: string;
+  gradient?: boolean;
+};
+
+function ServiceCard({ icon, title, description, gradient }: ServiceCardProps) {
   return (
     <div
       className={`flex flex-col items-center text-center p-8 rounded-xl shadow-lg w-80 transition-transform transform hover:scale-105 ${

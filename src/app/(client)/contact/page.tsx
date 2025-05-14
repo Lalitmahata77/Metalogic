@@ -16,15 +16,18 @@ export default function ContactPage() {
 
   const [loading, setLoading] = useState(false);
 
-  function handleChange(e) {
-    const { name, value, type, checked } = e.target;
+  function handleChange(
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+  ) {
+    const target = e.target as HTMLInputElement | HTMLTextAreaElement;
+    const { name, value, type } = target;
     setForm((prev) => ({
       ...prev,
-      [name]: type === "checkbox" ? checked : value,
+      [name]: type === "checkbox" ? (target as HTMLInputElement).checked : value,
     }));
   }
 
-  async function handleSubmit(e) {
+  async function handleSubmit(e: { preventDefault: () => void; }) {
     e.preventDefault();
     setLoading(true);
     // Handle form submission (API call or similar)
